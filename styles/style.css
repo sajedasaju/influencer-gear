@@ -419,6 +419,8 @@ footer div>span{
         display: flex;
         flex-direction: column;
         align-items: center;
+        padding-left: 330px;
+
     }
     .services{
         display: grid;
@@ -435,6 +437,8 @@ footer div>span{
         grid-row-gap: 30px;
         
     }
+
+
     footer{
         width: 700px;
         
@@ -492,6 +496,8 @@ footer div>span{
         display: flex;
         flex-direction: column;
         align-items: center;
+        
+
     }
     .services{
         display: grid;
